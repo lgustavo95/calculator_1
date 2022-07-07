@@ -10,4 +10,4 @@
 
 ## Developed project:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/87496837/177661762-0f2a177a-db4b-47d3-93a9-64680b488141.gif)
+[![1](https://user-images.githubusercontent.com/87496837/177664756-495b9de5-e2cc-475b-b324-bf5a41237da4.jpeg)](https://github.com/lgustavo95/calculator_1/blob/main/scr/1.jpeg)
