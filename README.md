@@ -2,11 +2,11 @@
 
 > 1st mini project using:
 >
-> - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
+> - <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">JavaScript</a>
 >
-> - [HTML](https://www.w3schools.com/html/default.asp)
+> - <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML</a>
 >
-> - [CSS](https://www.w3schools.com/css/default.asp)
+> - <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS</a>
 
 ## Developed project:
 
